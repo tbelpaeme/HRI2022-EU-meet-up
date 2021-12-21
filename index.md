@@ -39,7 +39,7 @@ Barcelona offers a wide range of accommodation, from cheap and cheerful hostels 
 
 ## Chat with others
 
-If you wish to get into touch with others who are interested in joining or with people who will participate, feel free to use the following Slack channel: [slack-y5n5922.slack.com](slack-y5n5922.slack.com)
+If you wish to get into touch with others who are interested in joining or with people who will participate, feel free to use [this Slack channel](slack-y5n5922.slack.com).
 
 ## Frequently Asked Questions
 
