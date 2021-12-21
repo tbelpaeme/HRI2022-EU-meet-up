@@ -30,8 +30,8 @@ The HRI EU meet-up is kindly sponsored by [PAL Robotics](https://pal-robotics.co
 
 ### Organisers
 
-Séverin Lemaignan, PAL Robotics, Spain (severin.lemaignan@pal-robotics.com)
-Tony Belpaeme, Universiteit Gent, Belgium (tony.belpaeme@ugent.be)
+- Séverin Lemaignan, PAL Robotics, Spain (severin.lemaignan@pal-robotics.com)
+- Tony Belpaeme, Universiteit Gent, Belgium (tony.belpaeme@ugent.be)
 
 ### Accommodation
 
