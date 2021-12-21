@@ -49,7 +49,7 @@ The HRI2022 conference itself will take place fully virtually. The Barcelona eve
 ### What registrations will be needed to take part in the Ghent satellite meetup? 
 You will need to register for the HRI EU meet-up and if you have a contribution at HRI2022 you will need a registration for that conference as well. The organization is entirely separate (although we are in touch with the HRI2022 general chairs about our initiative), and the fees will be entirely separate as well. The HRI EU meet-up fee covers the venue and catering, while the HRI2022 conference fee covers all expenses related to the virtual conference and publication of papers.
 
-### What if I need a formal presentation / invitation letter to get reimbursed by my university? 
+### What if I need a formal presentation / invitation letter to get reimbursed by my university / employer? 
 Each attendee will be given the opportunity to present a poster at the HRI EU meet-up, with poster boards available throughout the event. This could be a poster of an accepted HRI2022 paper, or other results which you would like to discuss with the other attendees. If you need a formal invitation letter to present this poster, we will be happy to provide you with one.
 
 ### What about the Workshop days?
