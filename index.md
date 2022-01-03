@@ -35,7 +35,7 @@ The HRI EU meet-up is kindly sponsored by [PAL Robotics](https://pal-robotics.co
 
 ## Accommodation
 
-Barcelona offers a wide range of accommodation, from cheap and cheerful hostels to upmarket hotels. We cannot make recommendations for hotels, but suggest to use the usual websites to find suitable hotels.
+Barcelona offers a wide range of accommodation, from cheap and cheerful hostels to upmarket hotels. We cannot make recommendations for hotels, but suggest to use the usual websites to find suitable hotels. The meet-up venue is very likely to be located in [the Poblenou neighbourhood](https://www.google.com/maps/place/El+Poblenou,+Barcelona).
 
 ## Chat with others
 
@@ -49,14 +49,14 @@ The HRI2022 conference itself will take place fully virtually. The Barcelona eve
 ### How do you deal with the time difference?
 HRI2022 will be largely based on pre-recorded talks, so we do not have to get up at the crack of dawn to watch live streams. If there are live events, we will see if we join them from Barcelona. The HRI2022 is trying hard to accommodate all different time zones in their programme.
 
-### What registrations will be needed to take part in the Ghent satellite meetup? 
+### What registrations will be needed to take part in the Barcelona satellite meetup? 
 You will need to register for the HRI EU meet-up and if you have a contribution at HRI2022 you will need a registration for that conference as well. The organization is entirely separate (although we are in touch with the HRI2022 general chairs about our initiative), and the fees will be entirely separate as well. The HRI EU meet-up fee covers the venue and catering, while the HRI2022 conference fee covers all expenses related to the virtual conference and publication of papers.
 
 ### What if I need a formal presentation / invitation letter to get reimbursed by my university / employer? 
 Each attendee will be given the opportunity to present a poster at the HRI EU meet-up, with poster boards available throughout the event. This could be a poster of an accepted HRI2022 paper, or other results which you would like to discuss with the other attendees. If you need a formal invitation letter to present this poster, we will be happy to provide you with one.
 
 ### What about the Workshop days?
-Workshops will be organised on Monday 7 and Friday 11 March 2022, these dates fall outside the dates of the HRI EU meet-up. 
+Workshops will be organised on Monday 7 and Friday 11 March 2022, these dates fall outside the dates of the HRI EU meet-up. We will only have access to the booked meet-up venue on the 9th and 10th of March. However, Barcelona is full of nice cafés and co-working spaces if you want to join the workshops during your stay in Barcelona.
 
 ### Will there be COVID-restrictions? 
 We will respect all measures and limitations that will be in force at the time, and apart from possible requirements for travelling to Spain and Barcelona that depend on your country of origin, we will clearly communicate all local rules that will be in place at the event venue. A detailed announcement on COVID restrictions will be provided closer to the date.
