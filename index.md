@@ -1,6 +1,6 @@
 ## HRI2022 EU meet-up
 
-As the [ACM/IEEE International Conference on Human-Robot Interaction 2022](https://humanrobotinteraction.org/2022/), or HRI2022 for short, was forced to move from a in-person conference to a virtual only conference, we decided to offer an opportunity for the HRI community to physically meet in Barcelone on Wednesday 9 and Thursday 10 March 2022.
+As the [ACM/IEEE International Conference on Human-Robot Interaction 2022](https://humanrobotinteraction.org/2022/), or HRI2022 for short, was forced to move from an in-person conference to a virtual only conference, we decided to offer an opportunity for the HRI community to physically meet in Barcelona on Wednesday 9 and Thursday 10 March 2022.
 
 The meet-up is an academic event offering an in-person experience of the HRI2022 conference. As the HRI conference is forced to be virtual for a third year in a row, we feel that a real-life event is long overdue. Participants will largely travel in from across Europe, but anyone who meets the [travel requirements of Spain](https://www.spth.gob.es/) is welcome.
 
@@ -44,13 +44,13 @@ If you wish to get into touch with others who are interested in joining or with 
 ## Frequently Asked Questions
 
 ### How does this HRI meet-up relate to the HRI2022 conference? 
-The HRI2022 conference itself will take place fully virtually. The Barcelona event is a physical meeting during the virtual conference, but organized independently, where a set of colleagues come together to jointly take part in the virtual conference, have discussions, network, and enjoy the city.
+The HRI2022 conference itself will take place fully virtually. The Barcelona event is a physical meeting during the virtual conference, but organised independently, where a set of colleagues come together to jointly take part in the virtual conference, have discussions, network, and enjoy the city.
 
 ### How do you deal with the time difference?
-HRI2022 will be largely based on pre-recorded talks, so we do not have to get up at the crack of dawn to watch live streams. If there are live events, we will see if we join them from Barcelona. The HRI2022 is trying hard to accommodate all different time zones in their programme.
+HRI2022 will be largely based on pre-recorded talks, so we do not have to get up at the crack of dawn to watch live streams. If there are live events, we will see if we can join them from Barcelona. The HRI2022 is trying hard to accommodate all different time zones in their programme.
 
 ### What registrations will be needed to take part in the Barcelona satellite meetup? 
-You will need to register for the HRI EU meet-up and if you have a contribution at HRI2022 you will need a registration for that conference as well. The organization is entirely separate (although we are in touch with the HRI2022 general chairs about our initiative), and the fees will be entirely separate as well. The HRI EU meet-up fee covers the venue and catering, while the HRI2022 conference fee covers all expenses related to the virtual conference and publication of papers.
+You will need to register for the HRI EU meet-up and if you have a contribution at HRI2022 you will need a registration for that conference as well. The organisation is entirely separate (although we are in touch with the HRI2022 general chairs about our initiative), and the fees will be entirely separate as well. The HRI EU meet-up fee covers the venue and catering, while the HRI2022 conference fee covers all expenses related to the virtual conference and publication of papers.
 
 ### What if I need a formal presentation / invitation letter to get reimbursed by my university / employer? 
 Each attendee will be given the opportunity to present a poster at the HRI EU meet-up, with poster boards available throughout the event. This could be a poster of an accepted HRI2022 paper, or other results which you would like to discuss with the other attendees. If you need a formal invitation letter to present this poster, we will be happy to provide you with one.
