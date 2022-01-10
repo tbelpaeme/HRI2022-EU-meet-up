@@ -18,6 +18,8 @@ Details on the venue are being finalised, but there will be an opportunity to fo
 
 Information on registration fees is not available yet. We expect the registration fee to fall between 100 and 200 EUR.
 
+The early registration deadline is set on 15 February 2022. While late registrations will still be possible, we encourage participants to register before then, not only to benefit from a reduced fee but also to allow the organisers to plan the event. 
+
 ## Registration
 
 Registration is not yet open.
