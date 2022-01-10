@@ -16,7 +16,7 @@ Details on the venue are being finalised, but there will be an opportunity to fo
 
 ## Fees
 
-Information on registration fees is not available yet.
+Information on registration fees is not available yet. We expect the registration fee to fall between 100 and 200 EUR.
 
 ## Registration
 
