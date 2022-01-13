@@ -22,7 +22,9 @@ The early registration deadline is set on 15 February 2022. While late registrat
 
 ## Registration
 
-Registration is not yet open.
+You can [pre-register for the event](https://docs.google.com/forms/d/e/1FAIpQLScxY7k5PkO5lMnWaaZnARenxKGj8OgWG17usyi8N5kcMNBc2w/viewform?usp=sf_link). This allows you to stay informed by email on any news regarding the event, and assures you will receive an invitation when the registration opens.
+
+The full registration will open at the end of January.
 
 ## Sponsoring and volunteering
 
