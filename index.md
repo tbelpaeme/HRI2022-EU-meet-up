@@ -1,6 +1,6 @@
 ## HRI2022 EU meet-up
 
-As the [ACM/IEEE International Conference on Human-Robot Interaction 2022](https://humanrobotinteraction.org/2022/), or HRI2022 for short, was forced to move from an in-person conference to a virtual only conference, we decided to offer an opportunity for the HRI community to physically meet in Barcelona on Wednesday 9 and Thursday 10 March 2022.
+As the [ACM/IEEE International Conference on Human-Robot Interaction 2022](https://humanrobotinteraction.org/2022/){:target="_blank" rel="noopener"}, or HRI2022 for short, was forced to move from an in-person conference to a virtual only conference, we decided to offer an opportunity for the HRI community to physically meet in Barcelona on Wednesday 9 and Thursday 10 March 2022.
 
 The meet-up is an academic event offering an in-person experience of the HRI2022 conference. As the HRI conference is forced to be virtual for a third year in a row, we feel that a real-life event is long overdue. Participants will largely travel in from across Europe, but anyone who meets the [travel requirements of Spain](https://www.spth.gob.es/){:target="_blank" rel="noopener"} is welcome.
 
@@ -22,13 +22,13 @@ The early registration deadline is set on 15 February 2022. While late registrat
 
 ## Registration
 
-You can [pre-register for the event](https://docs.google.com/forms/d/e/1FAIpQLScxY7k5PkO5lMnWaaZnARenxKGj8OgWG17usyi8N5kcMNBc2w/viewform?usp=sf_link). This allows you to stay informed by email on any news regarding the event, and assures you will receive an invitation when the registration opens.
+You can [pre-register for the event](https://docs.google.com/forms/d/e/1FAIpQLScxY7k5PkO5lMnWaaZnARenxKGj8OgWG17usyi8N5kcMNBc2w/viewform?usp=sf_link){:target="_blank" rel="noopener"}. This allows you to stay informed by email on any news regarding the event, and assures you will receive an invitation when the registration opens.
 
 The full registration will open at the end of January.
 
 ## Sponsoring and volunteering
 
-The HRI EU meet-up is kindly sponsored by [PAL Robotics](https://pal-robotics.com/). If you wish to contribute to this event in one form or another: helping towards the cost of the organisation through running research projects through to giving a helping hand with practical matters, then please get in touch with the organisers.
+The HRI EU meet-up is kindly sponsored by [PAL Robotics](https://pal-robotics.com/){:target="_blank" rel="noopener"}. If you wish to contribute to this event in one form or another: helping towards the cost of the organisation through running research projects through to giving a helping hand with practical matters, then please get in touch with the organisers.
 
 ![PAL Robotics](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://pal-robotics.com/wp-content/uploads/2019/07/Logo-PAL-Robotics-254x100.png)
 
@@ -41,11 +41,11 @@ The HRI EU meet-up is kindly sponsored by [PAL Robotics](https://pal-robotics.co
 
 ## Accommodation
 
-Barcelona offers a wide range of accommodation, from cheap and cheerful hostels to upmarket hotels. We cannot make recommendations for hotels, but suggest to use the usual websites to find suitable hotels. The meet-up venue is very likely to be located in [the Poblenou neighbourhood](https://www.google.com/maps/place/El+Poblenou,+Barcelona).
+Barcelona offers a wide range of accommodation, from cheap and cheerful hostels to upmarket hotels. We cannot make recommendations for hotels, but suggest to use the usual websites to find suitable hotels. The meet-up venue is very likely to be located in [the Poblenou neighbourhood](https://www.google.com/maps/place/El+Poblenou,+Barcelona){:target="_blank" rel="noopener"}.
 
 ## Chat with others
 
-When you register you will receive an invitation to join the Slack channel. If you wish to get into touch with others who are interested in joining or with people who will participate, feel free to use [this Slack channel](https://slack-y6n5922.slack.com). Note that you cannot use this channel unless you have been invited.
+When you register you will receive an invitation to join the Slack channel. If you wish to get into touch with others who are interested in joining or with people who will participate, feel free to use [this Slack channel](https://slack-y6n5922.slack.com){:target="_blank" rel="noopener"}. Note that you cannot use this channel unless you have been invited.
 
 ## Frequently Asked Questions
 
