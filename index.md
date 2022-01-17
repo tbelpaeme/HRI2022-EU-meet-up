@@ -2,7 +2,7 @@
 
 As the [ACM/IEEE International Conference on Human-Robot Interaction 2022](https://humanrobotinteraction.org/2022/), or HRI2022 for short, was forced to move from an in-person conference to a virtual only conference, we decided to offer an opportunity for the HRI community to physically meet in Barcelona on Wednesday 9 and Thursday 10 March 2022.
 
-The meet-up is an academic event offering an in-person experience of the HRI2022 conference. As the HRI conference is forced to be virtual for a third year in a row, we feel that a real-life event is long overdue. Participants will largely travel in from across Europe, but anyone who meets the [travel requirements of Spain](https://www.spth.gob.es/) is welcome.
+The meet-up is an academic event offering an in-person experience of the HRI2022 conference. As the HRI conference is forced to be virtual for a third year in a row, we feel that a real-life event is long overdue. Participants will largely travel in from across Europe, but anyone who meets the [travel requirements of Spain](https://www.spth.gob.es/){:target="_blank" rel="noopener"} is welcome.
 
 - Watch a selection of keynotes and oral presentations.
 - Meet and network with colleagues from across the region.
