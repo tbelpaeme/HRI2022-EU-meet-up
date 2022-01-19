@@ -68,4 +68,7 @@ Workshops will be organised on Monday 7 and Friday 11 March 2022, these dates fa
 We will respect all measures and limitations that will be in force at the time, and apart from possible requirements for travelling to Spain and Barcelona that depend on your country of origin, we will clearly communicate all local rules that will be in place at the event venue. A detailed announcement on COVID restrictions will be provided closer to the date.
 
 ### Is this event sponsored by the IEEE or the ACM?
-No, the event is not sponsored by either of the two professional organisations. The main conference is, but the meet-up is an independent event is not.
+No, the event is not sponsored by either of the two professional organisations. The main conference is, but the meet-up as an independent event is not.
+
+### Can I get an invitation letter?
+Of course. Just email <tony.belpaeme@ugent.be> and/or Séverin Lemaignan <severin.lemaignan@pal-robotics.com> for an invitation letter. Note that invitation letters will only be provided if you have a link to HRI research, this can be evidenced through publications, a brief case for support, or a CV.
