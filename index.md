@@ -41,7 +41,7 @@ The HRI EU meet-up is kindly sponsored by [PAL Robotics](https://pal-robotics.co
 
 ## Venue
 
-We meet in [Valkyria Hub](https://valkiriahubspace.com/espacios-vk/#ValkiriaHUB){:target="_blank" rel="noopener"}. See location on [Google Maps](https://g.page/valkiriahub?share){:target="_blank" rel="noopener"}.
+The meet-up takes place in [Valkyria Hub](https://valkiriahubspace.com/espacios-vk/#ValkiriaHUB){:target="_blank" rel="noopener"}, see location on [Google Maps](https://g.page/valkiriahub?share){:target="_blank" rel="noopener"}.
 
 Address: Carrer de Pujades, 126, 08005 Barcelona, Spain.
 
