@@ -47,7 +47,7 @@ Address: Carrer de Pujades, 126, 08005 Barcelona, Spain.
 
 ## Accommodation
 
-Barcelona offers a wide range of accommodation, from cheap and cheerful hostels to upmarket hotels. We cannot make recommendations for hotels, but suggest to use the usual websites to find suitable hotels. The meet-up venue is very likely to be located in [the Poblenou neighbourhood](https://www.google.com/maps/place/El+Poblenou,+Barcelona){:target="_blank" rel="noopener"}.
+Barcelona offers a wide range of accommodation, from cheap and cheerful hostels to upmarket hotels. We cannot make recommendations for hotels, but suggest to use the usual websites to find suitable hotels. The meet-up venue is located in [the Poblenou neighbourhood](https://www.google.com/maps/place/El+Poblenou,+Barcelona){:target="_blank" rel="noopener"}.
 
 ## Chat with others
 
