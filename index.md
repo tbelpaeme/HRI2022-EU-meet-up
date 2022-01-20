@@ -39,6 +39,12 @@ The HRI EU meet-up is kindly sponsored by [PAL Robotics](https://pal-robotics.co
 - Séverin Lemaignan, PAL Robotics, Spain (severin.lemaignan@pal-robotics.com)
 - Tony Belpaeme, Universiteit Gent, Belgium (tony.belpaeme@ugent.be)
 
+## Venue
+
+We meet in [Valkyria Hub](https://valkiriahubspace.com/espacios-vk/#ValkiriaHUB){:target="_blank" rel="noopener"}. See location on [Google Maps](https://g.page/valkiriahub?share){:target="_blank" rel="noopener"}.
+
+Address: Carrer de Pujades, 126, 08005 Barcelona, Spain.
+
 ## Accommodation
 
 Barcelona offers a wide range of accommodation, from cheap and cheerful hostels to upmarket hotels. We cannot make recommendations for hotels, but suggest to use the usual websites to find suitable hotels. The meet-up venue is very likely to be located in [the Poblenou neighbourhood](https://www.google.com/maps/place/El+Poblenou,+Barcelona){:target="_blank" rel="noopener"}.
@@ -59,7 +65,7 @@ HRI2022 will be largely based on pre-recorded talks, so we do not have to get up
 You will need to register for the HRI EU meet-up and if you have a contribution at HRI2022 you will need a registration for that conference as well. The organisation is entirely separate (although we are in touch with the HRI2022 general chairs about our initiative), and the fees will be entirely separate as well. The HRI EU meet-up fee covers the venue and catering, while the HRI2022 conference fee covers all expenses related to the virtual conference and publication of papers.
 
 ### What if I need a formal presentation / invitation letter to get reimbursed by my university / employer? 
-Each attendee will be given the opportunity to present a poster at the HRI EU meet-up, with poster boards available throughout the event. This could be a poster of an accepted HRI2022 paper, or other results which you would like to discuss with the other attendees. If you need a formal invitation letter to present this poster, we will be happy to provide you with one.
+Each attendee will be given the opportunity to present a poster at the HRI EU meet-up, with poster boards available throughout the event. This could be a poster of an accepted HRI2022 paper, or other results which you would like to discuss with the other attendees. Just email <tony.belpaeme@ugent.be> and/or Séverin Lemaignan <severin.lemaignan@pal-robotics.com> for an invitation letter. Note that invitation letters will only be provided if you have a link to HRI research, this can be evidenced through publications, a brief case for support, or a CV.
 
 ### What about the Workshop days?
 Workshops will be organised on Monday 7 and Friday 11 March 2022, these dates fall outside the dates of the HRI EU meet-up. We will only have access to the booked meet-up venue on the 9th and 10th of March. However, Barcelona is full of nice cafés and co-working spaces if you want to join the workshops during your stay in Barcelona.
@@ -69,6 +75,3 @@ We will respect all measures and limitations that will be in force at the time, 
 
 ### Is this event sponsored by the IEEE or the ACM?
 No, the event is not sponsored by either of the two professional organisations. The main conference is, but the meet-up as an independent event is not.
-
-### Can I get an invitation letter?
-Of course. Just email <tony.belpaeme@ugent.be> and/or Séverin Lemaignan <severin.lemaignan@pal-robotics.com> for an invitation letter. Note that invitation letters will only be provided if you have a link to HRI research, this can be evidenced through publications, a brief case for support, or a CV.
