@@ -24,7 +24,7 @@ The early registration deadline is set on 15 February 2022. While late registrat
 
 You can [pre-register for the event](https://docs.google.com/forms/d/e/1FAIpQLScxY7k5PkO5lMnWaaZnARenxKGj8OgWG17usyi8N5kcMNBc2w/viewform?usp=sf_link){:target="_blank" rel="noopener"}. This allows you to stay informed by email on any news regarding the event, and assures you will receive an invitation when the registration opens.
 
-The full registration will open at the end of January.
+The full registration will open soon.
 
 ## Sponsoring and volunteering
 
@@ -41,9 +41,7 @@ The HRI EU meet-up is kindly sponsored by [PAL Robotics](https://pal-robotics.co
 
 ## Venue
 
-The meet-up takes place in [Valkyria Hub](https://valkiriahubspace.com/espacios-vk/#ValkiriaHUB){:target="_blank" rel="noopener"}, see location on [Google Maps](https://g.page/valkiriahub?share){:target="_blank" rel="noopener"}.
-
-Address: Carrer de Pujades, 126, 08005 Barcelona, Spain.
+The venue is still not confirmed. It will be in the Poblenou area.
 
 ## Accommodation
 
