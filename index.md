@@ -32,6 +32,8 @@ The HRI EU meet-up is kindly sponsored by [PAL Robotics](https://pal-robotics.co
 
 ![PAL Robotics](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://pal-robotics.com/wp-content/uploads/2019/07/Logo-PAL-Robotics-254x100.png)
 
+<img src="https://eurecat.org/wp-content/uploads/2016/04/Eurecat_Logo_retina.jpg" height="150" />
+
 <img src="https://styleguide.ugent.be/files/uploads/logo_UGent_EN_RGB_2400_kleur_witbg.png" height="200" />
 
 ## Organisers
