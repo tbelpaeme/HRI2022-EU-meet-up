@@ -10,7 +10,7 @@ The meet-up is an academic event offering an in-person experience of the HRI2022
 - Join global networking events related to HRI2022.
 - Discuss research in an informal atmosphere and enjoy offline time with fellow researchers.
 
-Details on the venue are being finalised, but there will be an opportunity to follow the conference on a large screen in comfortable room, with ample opportunity for scientific brainstorms and discussions, and for catching up with former colleagues and fellow researchers - all while respecting COVID-related restrictions.
+Details on the venue are being finalised, but there will be an opportunity to follow the conference on a large screen in a comfortable room, with ample opportunity for scientific brainstorms and discussions, and for catching up with former colleagues and fellow researchers - all while respecting COVID-related restrictions.
 
 ![Placa Reial in Barcelona](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Placa_Reial_Barcelona_%28186419109%29.jpeg/800px-Placa_Reial_Barcelona_%28186419109%29.jpeg)
 
