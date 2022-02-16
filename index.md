@@ -88,7 +88,7 @@ Each attendee will be given the opportunity to present a poster at the HRI EU me
 Workshops will be organised on Monday 7 and Friday 11 March 2022, these dates fall outside the dates of the HRI EU meet-up. We will only have access to the booked meet-up venue on the 9th and 10th of March. However, Barcelona is full of nice cafés and co-working spaces if you want to join the workshops during your stay in Barcelona.
 
 ### Will there be COVID-restrictions? 
-We will respect all measures and limitations that will be in force at the time, and apart from possible requirements for travelling to Spain and Barcelona that depend on your country of origin.
+It is likely that some COVID-restrictions will still be in place. We will respect all measures and limitations that will be in force at the time, and apart from possible requirements for travelling to Spain and Barcelona that depend on your country of origin.
 
 ### Is this event sponsored by the IEEE or the ACM?
 No, the event is not sponsored by either of the two professional organisations. The main conference is, but the meet-up as an independent event is not.
