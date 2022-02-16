@@ -33,29 +33,42 @@ The HRI EU meet-up is kindly sponsored by [PAL Robotics](https://pal-robotics.co
 
 ![PAL Robotics](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://pal-robotics.com/wp-content/uploads/2019/07/Logo-PAL-Robotics-254x100.png)
 
-<img src="https://eurecat.org/wp-content/uploads/2016/04/Eurecat_Logo_retina.jpg" height="100" />
+<img src="https://eurecat.org/wp-content/uploads/2016/04/Eurecat_Logo_retina.jpg" height="80" />
 
 <img src="https://styleguide.ugent.be/files/uploads/logo_UGent_EN_RGB_2400_kleur_witbg.png" height="200" />
 
 ## Organisers
 
-- Séverin Lemaignan, PAL Robotics, Spain (severin.lemaignan@pal-robotics.com)
-- Tony Belpaeme, Universiteit Gent, Belgium (tony.belpaeme@ugent.be)
+- Séverin Lemaignan, PAL Robotics, Spain [severin.lemaignan@pal-robotics.com](mailto:severin.lemaignan@pal-robotics.com)
+- Tony Belpaeme, Universiteit Gent, Belgium [tony.belpaeme@ugent.be](mailto:tony.belpaeme@ugent.be)
 
 ## Venue
 
-The meet-up will take place at [Ca l'Alier](https://bithabitat.barcelona/ca-lalier/), a beautfilly redesigned building in
-the Poblenou neighbourhood.
+The meet-up will take place at [Ca l'Alier](https://bithabitat.barcelona/ca-lalier/), a beautfilly redesigned building in the Poblenou neighbourhood.
 
 [Link on Google Maps](https://goo.gl/maps/8uKde2ianj4iSyBU9).
 
+## Travel
+
+Barcelona is easily reached by air, rail or road. If you do fly into Barcelona, there are several options to get from and to the airport of Barcelona to the city center including bus, metro, train and taxi. Use the [Aena website to find out more about public transport.](https://www.aena.es/en/josep-tarradellas-barcelona-el-prat/getting-there/underground.html).
+
 ## Accommodation
 
-Barcelona offers a wide range of accommodation, from cheap and cheerful hostels to upmarket hotels. We cannot make recommendations for hotels, but suggest to use the usual websites to find suitable hotels. The meet-up venue is located in [the Poblenou neighbourhood](https://www.google.com/maps/place/El+Poblenou,+Barcelona){:target="_blank" rel="noopener"}.
+Barcelona offers a wide range of accommodation, from cheap and cheerful hostels to upmarket hotels. The meet-up venue is located in [the Poblenou neighbourhood](https://www.google.com/maps/place/El+Poblenou,+Barcelona){:target="_blank" rel="noopener"}. We compiled [a list of relatively affordable and nearby hotels](https://www.google.com/maps/d/u/0/viewer?mid=1r9-NUPa53pIXw3csTcHdPPxvcdA91Eg-&ll=41.40680780592316%2C2.203111600000005&z=14){:target="_blank" rel="noopener"}, but can also recommend the usual websites to find suitable hotels. 
 
 ## Chat with others
 
 When you register you will receive an invitation to join the Slack channel. If you wish to get into touch with others who are interested in joining or with people who will participate, feel free to use [this Slack channel](https://slack-y6n5922.slack.com){:target="_blank" rel="noopener"}. Note that you cannot use this channel unless you have been invited.
+
+## Covid-19 restrictions
+
+Please find [here](https://www.aena.es/en/informationcovid19coronavirusairportsandflights.html){:target="_blank" rel="noopener"} all the information regarding current Covid-19 measures applying to passengers travelling to Barcelona’s airport.
+
+Please find [here](https://www.barcelona.cat/covid19/en/measures-combat-covid-19-barcelona){:target="_blank" rel="noopener"} the current Covid-19 restrictions in the city of Barcelona as of today. The restrictions might change by the time you arrive in Barcelona, however, the updates should be directly reflected in the said link.
+
+## Restaurants
+
+We do not foresee lunch or dinner, however there are many restaurants close to the venue catering for all kinds of budgets and dietary requirements. [For a limited list see this map.](https://www.google.com/maps/d/u/0/viewer?mid=1SFuMaSKFiV2PQszHkTp65jHAoqUkORTb&ll=41.4063916447394%2C2.2033679000000284&z=16){:target="_blank" rel="noopener"}
 
 ## Frequently Asked Questions
 
@@ -75,7 +88,7 @@ Each attendee will be given the opportunity to present a poster at the HRI EU me
 Workshops will be organised on Monday 7 and Friday 11 March 2022, these dates fall outside the dates of the HRI EU meet-up. We will only have access to the booked meet-up venue on the 9th and 10th of March. However, Barcelona is full of nice cafés and co-working spaces if you want to join the workshops during your stay in Barcelona.
 
 ### Will there be COVID-restrictions? 
-We will respect all measures and limitations that will be in force at the time, and apart from possible requirements for travelling to Spain and Barcelona that depend on your country of origin, we will clearly communicate all local rules that will be in place at the event venue. A detailed announcement on COVID restrictions will be provided closer to the date.
+We will respect all measures and limitations that will be in force at the time, and apart from possible requirements for travelling to Spain and Barcelona that depend on your country of origin.
 
 ### Is this event sponsored by the IEEE or the ACM?
 No, the event is not sponsored by either of the two professional organisations. The main conference is, but the meet-up as an independent event is not.
