@@ -29,7 +29,7 @@ The full registration will open soon.
 
 ## Sponsoring and volunteering
 
-The HRI EU meet-up is kindly sponsored by [PAL Robotics](https://pal-robotics.com/){:target="_blank" rel="noopener"}. If you wish to contribute to this event in one form or another: helping towards the cost of the organisation through running research projects through to giving a helping hand with practical matters, then please get in touch with the organisers.
+The HRI EU meet-up is kindly sponsored by [PAL Robotics](https://pal-robotics.com/){:target="_blank" rel="noopener"} and [Eurecat](https://eurecat.org/){:target="_blank" rel="noopener"}. If you wish to contribute to this event in one form or another: helping towards the cost of the organisation through running research projects through to giving a helping hand with practical matters, then please get in touch with the organisers.
 
 ![PAL Robotics](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://pal-robotics.com/wp-content/uploads/2019/07/Logo-PAL-Robotics-254x100.png)
 
