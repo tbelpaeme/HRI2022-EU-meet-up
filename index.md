@@ -16,7 +16,7 @@ Details on the venue are being finalised, but there will be an opportunity to fo
 
 ## Programme
 
-Wednesday 9 March 2022
+**Wednesday 9 March 2022**
 
 9:00 - 9:30	Doors open, registration and welcome
 9:30-10:30	Coffee + setting up posters + opening
@@ -30,7 +30,7 @@ Wednesday 9 March 2022
 18:00-19:30	Lab tour at PAL Robotics
 19:30-21:30	Standing buffet at PAL Robotics
 
-Thursday 10 March 2022
+**Thursday 10 March 2022**
 
 9:00 - 9:30	Doors open
 9:30 - 10:30	Keynote Hiroshi Nittono - The Psychology of “Kawaii” and Its Implications for Human-Robot Interaction
