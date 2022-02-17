@@ -53,7 +53,7 @@ meet-up.
 
 ## Registration
 
-You can [pre-register for the event](https://docs.google.com/forms/d/e/1FAIpQLScxY7k5PkO5lMnWaaZnARenxKGj8OgWG17usyi8N5kcMNBc2w/viewform?usp=sf_link){:target="_blank" rel="noopener"}. This allows you to stay informed by email on any news regarding the event, and assures you will receive an invitation when the registration opens.
+You can [register for the event](https://forms.gle/ZeafNk2iMQ5CnHFXA){:target="_blank" rel="noopener"}. Note that capacity is limited, so early registration is encouraged.
 
 The full registration will open soon.
 
