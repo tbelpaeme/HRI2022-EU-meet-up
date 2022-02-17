@@ -50,7 +50,7 @@ Details on the venue are being finalised, but there will be an opportunity to fo
 
 11:00-12:30	Video session 3
 
-12:30-14:00	EURECAT presentation + Lunch
+12:30-14:00	Eurecat research activities in Robotics HRI + Lunch
 
 14:00-15:30	Video session 4
 
