@@ -14,34 +14,54 @@ Details on the venue are being finalised, but there will be an opportunity to fo
 
 ![Placa Reial in Barcelona](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Placa_Reial_Barcelona_%28186419109%29.jpeg/800px-Placa_Reial_Barcelona_%28186419109%29.jpeg)
 
-## Programme
+## Programme (subject to minor changes)
 
 **Wednesday 9 March 2022**
 
 9:00 - 9:30	Doors open, registration and welcome
+
 9:30-10:30	Coffee + setting up posters + opening
+
 10:30-11:30	(LIVE) Keynote Friederike Eyssel - What’s Social about Social Robots? A Psychological Perspective
+
 11:30-12:30	Video session 1
+
 12:30-14:00	Lunch
+
 14:00-15:30	Video session 2
+
 15:30-16:30	Coffee break + poster session
+
 16:30-17:30	Keynote Leila Takayama - Putting Human-Robot Interaction Research into Design Practice
+
 17:30-18:00	Walk to PAL Robotics
+
 18:00-19:30	Lab tour at PAL Robotics
+
 19:30-21:30	Standing buffet at PAL Robotics
 
 **Thursday 10 March 2022**
 
 9:00 - 9:30	Doors open
+
 9:30 - 10:30	Keynote Hiroshi Nittono - The Psychology of “Kawaii” and Its Implications for Human-Robot Interaction
+
 10:30-11:00	Coffee break + poster session
+
 11:00-12:30	Video session 3
+
 12:30-14:00	EURECAT presentation + Lunch
+
 14:00-15:30	Video session 4
+
 15:30-16:00	Coffee break + poster session
+
 16:00-17:00	Video session 5
+
 17:00-17:30	Walk to the beach via Rambla de Poblenou
+
 17:30-19:00	Social time at the beach
+
 19:00	Close + self-organised dinner in Barcelona
 
 ## Fees
