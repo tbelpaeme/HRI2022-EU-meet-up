@@ -20,7 +20,7 @@ Details on the venue are being finalised, but there will be an opportunity to fo
 
 9:00 - 9:30	Doors open, registration and welcome
 
-9:30-10:30	Coffee + setting up posters + opening
+9:30-10:30	Coffee + setting up posters + opening by co-sponsor Eurecat
 
 10:30-11:30	(LIVE) Keynote Friederike Eyssel - What’s Social about Social Robots? A Psychological Perspective
 
@@ -36,9 +36,7 @@ Details on the venue are being finalised, but there will be an opportunity to fo
 
 17:30-18:00	Walk to PAL Robotics
 
-18:00-19:30	Lab tour at PAL Robotics
-
-19:30-21:30	Standing buffet at PAL Robotics
+18:00-20:00	Lab tour at PAL Robotics + finger food
 
 **Thursday 10 March 2022**
 
@@ -50,7 +48,7 @@ Details on the venue are being finalised, but there will be an opportunity to fo
 
 11:00-12:30	Video session 3
 
-12:30-14:00	Eurecat research activities in Robotics HRI + Lunch (*self-catering*)
+12:30-14:00	Lunch (*self-catering*)
 
 14:00-15:30	Video session 4
 
