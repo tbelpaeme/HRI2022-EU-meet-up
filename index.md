@@ -26,7 +26,9 @@ Details on the venue are being finalised, but there will be an opportunity to fo
 
 11:30-12:30	Video session 1
 
-12:30-14:00	Lunch (*self-catering*)
+12:30-12:45	Presentation of Barcelona's UPC IRI lab by Guillem Alenya
+
+12:45-14:00	Lunch (*self-catering*)
 
 14:00-15:30	Video session 2
 
