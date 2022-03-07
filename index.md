@@ -20,9 +20,7 @@ Details on the venue are being finalised, but there will be an opportunity to fo
 
 9:00 - 9:30	Doors open, registration and welcome
 
-9:30-10:10	Opening, followed by coffee + setting up posters
-
-10:10-10:25	Presentation of Eurecat by Daniel Serrano
+9:30-10:30	Opening, followed by coffee + setting up posters
 
 10:30-11:30	(LIVE) Keynote Friederike Eyssel - What’s Social about Social Robots? A Psychological Perspective
 
@@ -34,7 +32,9 @@ Details on the venue are being finalised, but there will be an opportunity to fo
 
 14:00-15:30	Video session 2
 
-15:30-16:30	Coffee break + poster session
+15:30-15:45	Eurecat research activities in Robotics and HRI by Daniel Serrano
+
+15:45-16:30	Coffee break + poster session
 
 16:30-17:30	Keynote Leila Takayama - Putting Human-Robot Interaction Research into Design Practice
 
