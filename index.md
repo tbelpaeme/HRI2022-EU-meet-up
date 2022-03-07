@@ -20,7 +20,9 @@ Details on the venue are being finalised, but there will be an opportunity to fo
 
 9:00 - 9:30	Doors open, registration and welcome
 
-9:30-10:30	Coffee + setting up posters + opening by co-sponsor Eurecat
+9:30-10:10	Opening, followed by coffee + setting up posters
+
+10:10-10:25	Presentation of Eurecat by Daniel Serrano
 
 10:30-11:30	(LIVE) Keynote Friederike Eyssel - What’s Social about Social Robots? A Psychological Perspective
 
