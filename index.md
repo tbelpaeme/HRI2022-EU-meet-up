@@ -26,11 +26,28 @@ Details on the venue are being finalised, but there will be an opportunity to fo
 
 11:30-12:30	Video session 1
 
+- Mixed-Method Long-Term Robot Usage: Older Adults’ Lived Experience of Social Robots (Anastasia K.Ostrowski, Cynthia Breazeal, Hae Won Park)
+- alt.HRI: Robotic Improvisers: Rule-Based Improvisation and Emergent Behaviour in HRI (Irene Alcubilla Troughton, Kim Baraka, Koen Hindriks, Maaike Bleeker)
+- Video: How to Make People Think You’re Thinking if You’re a Drawing Robot: Expressing Emotions Through the Motions of Writing (Avital Dell’Ariccia, Alexandra Bremers, Johan Michalove, Wendy Ju)
+- “And then what happens?” Promoting Children’s Verbal Creativity Using a Robot (Maha Elgarf, Natalia Calvo-Barajas, Patrícia Alves-Oliveira, Giulia Perugia, Ginevra Castellano, Christopher Peters, Ana Paiva)
+- Short contribution: PointIt: A ROS Toolkit for Interacting with Co-located Robots using Pointing Gestures (Gabriele Abbate, Alessandro Giusti, Antonio Paolillo, Boris Gromov, Luca Gambardella, Andrea-Emilio Rizzoli, Jérôme Guzzi)
+- Learning Socially Appropriate Robo-waiter Behaviours through Real-time User Feedback (Emily McQuillin, Nikhil Churamani, Hatice Gunes)
+
 12:30-12:45	Presentation of Barcelona's UPC IRI lab by Guillem Alenya
 
 12:45-14:00	Lunch (*self-catering*)
 
 14:00-15:30	Video session 2
+
+- Memory-Based Personalization for Fostering a Long-Term Child-Robot Relationship (Mike E.U. Ligthart, Mark Neerincx, Koen Hindriks)
+- Face on a Globe: A Spherical Robot that Appears Lifelike Through Smooth Deformations and Autonomous Movement (Daisuke Iizawa, Shunji Yamanaka)
+- MIND MELD: Personalized Meta-Learning for Robot-Centric Imitation Learning (Mariah Schrum, Erin Hedlund, Nina Moorman, Matthew Gombolay)
+- alt.HRI: Children’s Perspectives of Advertising with Social Robots: A Policy Investigation (Daniella DiPaola, Anastasia K. Ostrowski, Rylie Spiegel Kate Darling, Cynthia Breazeal)
+- Video: Demonstration of a Robot Receptionist with Multi-party Situated Interaction (Meriam Moujahid, Bruce Wilson, Helen Hastie, Oliver Lemon)
+- Norm-Breaking Responses to Sexist Abuse: A Cross-Cultural Human Robot Interaction Study (Katie Winkle, Ryan Blake Jackson, Gaspar Isaac Melsión, Drazen Brscic, Iolanda Leite, Tom Williams)
+- Inclusive’R’Stories: An Inclusive Storytelling Activity with an Emotional Robot (Cristiana Antunes, Isabel Neto, Filipa Correia, Ana Paiva, Hugo Nicolau) 
+- Short contribution: A New VR Kitchen Environment for Recording Well Annotated Object Interaction Tasks (Michael Koller, Timothy Patten, Markus Vincze) 
+- Automatic Frustration Detection Using Thermal Imaging (Youssef Mohamed, Giulia Ballardini, Maria Teresa Parreira, Séverin Lemaignan, Iolanda Leite) 
 
 15:30-15:45	Eurecat research activities in Robotics and HRI by Daniel Serrano
 
