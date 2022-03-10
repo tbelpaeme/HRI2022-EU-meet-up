@@ -69,13 +69,45 @@ Details on the venue are being finalised, but there will be an opportunity to fo
 
 11:00-12:30	Video session 3
 
+- Correct Me If I’m Wrong: Using Non-Experts to Repair Reinforcement Learning Policies (Sanne van Waveren, Christian Pek, Jana Tumova, Iolanda Leite)
+- Short contribution: A New VR Kitchen Environment for Recording Well Annotated Object Interaction Tasks (Michael Koller, Timothy Patten, Markus Vincze)
+- alt.HRI: Promoting Children’s Critical Thinking Towards Robotics through Robot Deception (Maria Luce Lupetti, Maarten Van Mechelen)
+- A Social Robot for Improving Interruptions Tolerance and Employability in Adults with ASD (Rebecca Ramnauth, Emmanuel Adeniran, Timothy Adamson, MichalALewkowicz, Rohit Giridharan, Caroline Reiner, Brian Scassellati)
+- Refilling Water Bottles in Elderly Care Homes With the Help of a Safe Service Robot (Cagatay Odabasi, Florenz Graf, Jochen Lindermayr, Mayank Patel, Simon D Baumgarten, Birgit Graf)
+- Learning Gaze Behaviors for Balancing Participation in Group Human-Robot Interactions (Sarah Gillet, Maria Teresa Parreira, Marynel Vázquez, Iolanda Leite)
+- Better than Us: The Role of Implicit Self-Theories in Determining Perceived Threat Responses in HRI (D. D. Allan, Andrew J. Vonasch, Christoph Bartneck)
+- It Will Not Take Long! Longitudinal Effects of Robot Conflict Resolution Strategies on Compliance, Acceptance and Trust (Franziska Babel, Philipp Hock, Johannes Kraus, Martin Baumann)
+- The Shape of Our Bias: Perceived Age and Gender in the Humanoid Robots of the ABOT Database (Giulia Perugia, Stefano Guidi, Margherita Bicchi, Oronzo Parlangeli)
+- Why do we follow robots? An experimental investigation of conformity with robot, human and hybrid majorities (Lisa Masjutin, Jessica K. Laing, Günter W. Maier)
+
 12:30-14:00	Lunch (*self-catering*)
 
 14:00-15:30	Video session 4
 
+- Exploring Machine-like Behaviors for a Socially Acceptable Robot Navigation in Elevators (Danilo Gallo, Shreepriya Gonzalez-Jimenez, Antonietta Maria Grasso, Cecile Boulard, Tommaso Colombino)
+- Short contribution: PointIt: A ROS Toolkit for Interacting with Co-located Robots using Pointing Gestures (Gabriele Abbate, Alessandro Giusti, Antonio Paolillo, Boris Gromov, Luca Gambardella, Andrea-Emilio Rizzoli, Jérôme Guzzi)
+- A Taxonomy of Functional Augmented Reality for Human-Robot Interaction (Ornnalin Phaijit, Wafa Johal, Mohammad Obaid, Claude Sammut)
+- Short contribution: Jaco: An Offline Running Privacy-aware Voice Assistant (Daniel Bermuth, Alexander Poeppel, Wolfgang Reif)
+- Who’s Laughing NAO? Examining Perceptions of Failure in a Humorous Robot Partner (Haley N Green, Md Mofijul Islam, Shahira Ali, Tariq Iqbal)
+- Mind the Machines: Applying Implicit Measures of Mind Perception in Social Robotics (Zhenni Li, Leonie Terfurth, Eva Wiese, Joshua Pepe Woller)
+- REGROUP: A Robot-Centric Group Detection and Tracking System (Angelique Taylor, Laurel D. Riek)
+- Having The Right Attitude: How Attitude Impacts Trust Repair in Human-Robot Interaction (Connor Esterwood, Lionel Peter Robert) 
+- A Novel Architectural Method for Producing Dynamic Gaze Behavior in Human-Robot Interactions (Gordon Briggs, Meia Chita-Tegmark, Evan Krause, Matthias Scheutz) 
+- HRI Carryover Effect: Can Interactions With Robots Influence Subsequent Human-Human Interactions? (Hadas Erel, Elior Carsenti, Oren Zuckerman) 
+- Not All Who Wander Are Lost: A Localization-Free System for In-The-Wild Mobile Robot Deployments (Amal Nanavati, Nick Walker, Lee Taber, Christoforos Mavrogiannis, Leila Takayama, Maya Cakmak, Siddhartha Srinivasa)
+- Short contribution: Projecting Robot Navigation Paths: Hardware and Software for Projected AR (Zhao Han, Jenna Parrillo, Alexander Wilkinson, Holly A. Yanco, Tom Williams) 
+- Revisiting Human-Robot Teaching and Learning Through the Lens of Human Concept Learning Theory (Serena Booth, Sanjana Sharma, Sarah Chung, Julie Shah, Elena L. Glassman) 
+
 15:30-16:00	Coffee break + poster session
 
 16:00-17:00	Video session 5
+
+- You’re delaying my task?! Impact of Task Order and Motive on Perceptions of a Robot (Elizabeth Jeanne Carter, Laura M. Hiatt, Stephanie Rosenthal)
+- Teacher, Teammate, Subordinate, Friend: Generating Norm Violation Responses Grounded in Role-based Relational Norms (Ruchen Wen, Zhao Han, Tom Williams)
+- Perceptions of Cognitive and Affective Empathetic Statements by Socially Assistive Robots (Christopher Birmingham, Ashley Perez, Maja Mataric)
+- Configuring Humans: What Roles Humans Play in HRI Research (Hee Rin Lee, EunJeong Cheon, Chaeyun Lim, Kerstin Fischer)
+- More than words: A Framework for Human-Robot Dialog Designs (James M Berzuk, James E. Young)
+- Cognitively Assistive Robots at Home: HRI Design Patterns for Translational Science (Alyssa Kubota, Dagoberto Cruz-Sandoval, Soyon Kim, Elizabeth Twamley, Laurel D. Riek) 
 
 17:00-17:30	Walk to the beach via Rambla de Poblenou
 
