@@ -85,7 +85,6 @@ Details on the venue are being finalised, but there will be an opportunity to fo
 14:00-15:30	Video session 4
 
 - Exploring Machine-like Behaviors for a Socially Acceptable Robot Navigation in Elevators (Danilo Gallo, Shreepriya Gonzalez-Jimenez, Antonietta Maria Grasso, Cecile Boulard, Tommaso Colombino)
-- Short contribution: PointIt: A ROS Toolkit for Interacting with Co-located Robots using Pointing Gestures (Gabriele Abbate, Alessandro Giusti, Antonio Paolillo, Boris Gromov, Luca Gambardella, Andrea-Emilio Rizzoli, Jérôme Guzzi)
 - A Taxonomy of Functional Augmented Reality for Human-Robot Interaction (Ornnalin Phaijit, Wafa Johal, Mohammad Obaid, Claude Sammut)
 - Short contribution: Jaco: An Offline Running Privacy-aware Voice Assistant (Daniel Bermuth, Alexander Poeppel, Wolfgang Reif)
 - Who’s Laughing NAO? Examining Perceptions of Failure in a Humorous Robot Partner (Haley N Green, Md Mofijul Islam, Shahira Ali, Tariq Iqbal)
